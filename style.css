@@ -1,0 +1,23 @@
+*
+{
+    margin: 0;
+    padding: 0;
+
+}
+h1 .heading{
+background-color: fuchsia;
+font-family: "Goudy-bookletter" serif;
+color: whitesmoke;
+}
+.content{
+background-color: fuchsia;
+color: orange;
+font-family: sans-serif;
+}
+.saction{
+width: 30%;
+height: 30%;
+}
+.footer{
+
+}
