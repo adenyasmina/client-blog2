@@ -1,23 +1,35 @@
 *
 {
-    margin: 0;
-    padding: 0;
-
+    margin: auto;
+    padding: 10px;
 }
-h1 .heading{
+.wrapper{
+    background-color: fuchsia;
+font-family: "Goudy-bookletter" serif;
+color: orange;
+width: 100%;
+height: 100%;
+}
+h1 .outer-layer{
 background-color: fuchsia;
 font-family: "Goudy-bookletter" serif;
-color: whitesmoke;
+color: orange;
+text-align: center;
 }
 .content{
 background-color: fuchsia;
 color: orange;
 font-family: sans-serif;
 }
-.saction{
-width: 30%;
-height: 30%;
+.saction-bar{
+background-color: fuchsia;
+font-family: "Goudy-bookletter" serif;
+color: orange;
 }
 .footer{
-
+width: 200px;
+height: auto;
+}
+image{
+    margin: auto;
 }
