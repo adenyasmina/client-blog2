@@ -4,27 +4,29 @@
     padding: 10px;
 }
 .wrapper{
-    background-color: fuchsia;
+    background-color: #FF77FF;
 font-family: "Goudy-bookletter" serif;
-color: orange;
+color: white;
 width: 100%;
 height: 100%;
+display: grid;
+grid-gap: 20px;
 }
 h1 .outer-layer{
-background-color: fuchsia;
+background-color: #ddd;
 font-family: "Goudy-bookletter" serif;
-color: orange;
+color: white;
 text-align: center;
 }
 .content{
 background-color: fuchsia;
-color: orange;
+color: white;
 font-family: sans-serif;
 }
 .saction-bar{
 background-color: fuchsia;
 font-family: "Goudy-bookletter" serif;
-color: orange;
+color: white;
 }
 .footer{
 width: 200px;
@@ -32,4 +34,12 @@ height: auto;
 }
 image{
     margin: auto;
+}
+h2{
+    color: orange
+}
+.btn{
+    background: #FF77FF;
+    text-decoration: none;
+    border: 0;
 }
